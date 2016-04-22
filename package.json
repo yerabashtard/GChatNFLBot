@@ -1,0 +1,28 @@
+{
+  "name": "g-chat-nfl-bot",
+  "version": "0.0.1",
+  "description": "A crazy bot",
+  "main": "app.js",
+  "dependencies": {
+    "hangouts-bot": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yerabashtard/GChatNFLBot.git"
+  },
+  "keywords": [
+    "git",
+    "nfl",
+    "bot"
+  ],
+  "author": "Justin Cheema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yerabashtard/GChatNFLBot/issues"
+  },
+  "homepage": "https://github.com/yerabashtard/GChatNFLBot#readme"
+}
